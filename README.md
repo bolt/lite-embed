@@ -10,7 +10,7 @@ Installation:
 composer require bolt/lite-embed
 ```
 
-After installation, in your twig file:
+After installation, in your twig file, you can do:
 
 {example link)
 
