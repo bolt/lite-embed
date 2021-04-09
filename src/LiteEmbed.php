@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\LiteEmbed;
+namespace Bolt\LiteEmbed;
 
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;

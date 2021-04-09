@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\LiteEmbed;
+namespace Bolt\LiteEmbed;
 
 
 use Bolt\Widget\BaseWidget;
