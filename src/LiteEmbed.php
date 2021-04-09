@@ -21,6 +21,7 @@ class LiteEmbed extends AbstractExtension
 
     public function liteEmbed(string $link): ?string
     {
+        $link = trim($link);
         $id = $this->getYoutubeId($link);
         if ($id) {
             return $this->youtubeEmbed($id);
