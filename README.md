@@ -2,7 +2,7 @@
 
 Author: Dennis Meiderwijk, Bob den Otter
 
-A lightweight extension to display Youtube and Vimeo videoplinks to embedded videos.
+A lightweight extension to display Youtube and Vimeo videolinks to embedded videos.
 
 Installation:
 
