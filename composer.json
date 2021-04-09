@@ -1,0 +1,34 @@
+{
+    "name": "bolt/lite-embed",
+    "description": "📦 This Bolt extension can be used as a starting point to base your own extensions on.",
+    "type": "bolt-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis Meiderwijk",
+            "email": "dennis@twokings.nl"
+        },
+        {
+            "name": "Bob den Otter",
+            "email": "bob@twokings.nl"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.9",
+        "twig/twig": "^2.12 | ^3.0"
+    },
+    "require-dev": {
+        "bolt/core": "^4.0.0",
+        "symplify/easy-coding-standard": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bolt\\LiteEmbed\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "entrypoint": "Bolt\\LiteEmbed\\Extension"
+    }
+}
