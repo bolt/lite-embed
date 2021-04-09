@@ -2,7 +2,7 @@
 
 Author: Dennis Meiderwijk, Bob den Otter
 
-[Todo]
+A lightweight extension to display Youtube and Vimeo videoplinks to embedded videos.
 
 Installation:
 
