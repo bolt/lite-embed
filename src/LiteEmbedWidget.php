@@ -23,5 +23,5 @@ class LiteEmbedWidget extends BaseWidget implements TwigAwareInterface, CacheAwa
     protected $priority = 200;
     protected $template = '@liteembed-extension/widget.html.twig';
     protected $zone = RequestZone::FRONTEND;
-    protected $cacheDuration = -1800;
+    protected $cacheDuration = 1800;
 }
