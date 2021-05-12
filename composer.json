@@ -26,7 +26,7 @@
             "Bolt\\LiteEmbed\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "extra": {
         "entrypoint": "Bolt\\LiteEmbed\\Extension"
